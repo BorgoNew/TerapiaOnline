@@ -17,5 +17,15 @@ Médicos:
 https://doc24.com.ar/
 https://www.virtualdoctor.me/ar/
 
+Integrantes:
+Matias Bonomi
+Jimena Borgonovo
+Gabriela
+Alejandra
+
+Trello:
+https://trello.com/b/oQ5hEkqo/sprint-1
+
+
 
 
