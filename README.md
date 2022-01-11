@@ -19,9 +19,17 @@ https://www.virtualdoctor.me/ar/
 
 Integrantes:
 Matias Bonomi
+
+
 Jimena Borgonovo
+Ing en Sistemas, trabajé 7 años en sistemas desarrollando sistemas de escritorio y algun que otro principio web con lenguaje Orientado a Objetos. Hace 11 años que decidí no continuar con ssitemas y hacerme cargo de la empresa familiar, agencia de publicidad. Empecé este curso por curiosidad y volver a entrar en tema despues de tantos años, y ademas, se que le puede aportar valor a mi trabajo actual o eventualmente, conseguir otra salidad laboral.
+
 Gabriela
+
+
 Alejandra
+
+
 
 Trello:
 https://trello.com/b/oQ5hEkqo/sprint-1
