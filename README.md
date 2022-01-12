@@ -18,14 +18,13 @@ https://doc24.com.ar/
 https://www.virtualdoctor.me/ar/
 
 Integrantes:
-Matias Bonomi
 
+Matias Bonomi
 
 Jimena Borgonovo
 Ing en Sistemas, trabajé 7 años en sistemas desarrollando sistemas de escritorio y algun que otro principio web con lenguaje Orientado a Objetos. Hace 11 años que decidí no continuar con ssitemas y hacerme cargo de la empresa familiar, agencia de publicidad. Empecé este curso por curiosidad y volver a entrar en tema despues de tantos años, y ademas, se que le puede aportar valor a mi trabajo actual o eventualmente, conseguir otra salidad laboral.
 
-Gabriela
-
+Gabriella Hernández Soy abogada de profesión, fotógrafa por pasión e informática en formación. Me adentré al mundo de IT a través del Testing, área en la cual me estoy desempeñando laboralmente en la actualidad, y tuve la oportunidad de ingresar a FullStack como una ampliación de mis conocimientos en este mundo que cada vez me genera más curiosidad e interés.
 
 Alejandra
 
