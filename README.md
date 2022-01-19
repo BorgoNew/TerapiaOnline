@@ -27,8 +27,6 @@ Ing en Sistemas, trabajé 7 años en sistemas desarrollando sistemas de escritor
 
 Gabriella Hernández Soy abogada de profesión, fotógrafa por pasión e informática en formación. Me adentré al mundo de IT a través del Testing, área en la cual me estoy desempeñando laboralmente en la actualidad, y tuve la oportunidad de ingresar a FullStack como una ampliación de mis conocimientos en este mundo que cada vez me genera más curiosidad e interés.
 
-Alejandra
-
 
 
 Trello:
